@@ -9,15 +9,15 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    # environment: 
-    #   name: production
-    permissions:
-      contents: write
+    # permissions:
+    #   contents: write
     steps:
       - name: General
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.general.svg
+          output_action: gist
+          committer_gist: ${{ secrets.GENERAL_GIST_ID }}
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           plugin_lines: yes
@@ -25,6 +25,8 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.wakatime.svg
+          output_action: gist
+          committer_gist: ${{ secrets.WAKATIME_GIST_ID }}
           token: NOT_NEEDED
           base: ""
           plugin_wakatime: yes
@@ -33,11 +35,3 @@ jobs:
           plugin_wakatime_days: "7"
           plugin_wakatime_limit: 0
           plugin_wakatime_repositories_visibility: "all"
-      - name: Detailed display
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_only: sponsor, maintainer, octonaut
