@@ -14,15 +14,10 @@ jobs:
     permissions:
       contents: write
     steps:
-    - uses: bearbaka/metrics@master
-      with:
-        config_timezone: Europe/Paris
-
-    # 
-    #   - name: General
-    #     uses: bearbaka/metrics@master
-    #     with:
-    #       filename: metrics.general.svg
-    #       token: ${{ secrets.METRICS_TOKEN }}
-    #       base: header, repositories
-    #       plugin_lines: yes
+      - name: General
+        uses: bearbaka/metrics@master
+        with:
+          filename: metrics.general.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
+          plugin_lines: yes
