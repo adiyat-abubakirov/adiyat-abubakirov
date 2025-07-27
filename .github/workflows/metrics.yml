@@ -15,7 +15,7 @@ jobs:
       contents: write
     steps:
       - name: General
-        uses: bearbaka/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.general.svg
           token: ${{ secrets.METRICS_TOKEN }}
