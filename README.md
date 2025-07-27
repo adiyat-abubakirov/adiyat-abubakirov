@@ -15,6 +15,7 @@
 <a href="https://linkedin.com/in/adiyat-abubakirov" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin-adiyat-abubakirov" height="48" width="48" /></a>
 <a href="https://www.leetcode.com/bearbaka" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode-bearbaka" height="48" width="48" /></a>
 </p>
+
 <h3 align="left">Languages:</h3>
 <p align=left>
 <a href="">
@@ -23,6 +24,7 @@
 <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="48" height="48"/>
 </a>
 </p>
+
 <h3 align="left">Android Development:</h3>
 <p align=left>
 <a href="">
@@ -32,6 +34,7 @@
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fa.fsdn.com%2Fallura%2Fmirror%2Fleakcanary%2Ficon%3F1719033012%3F%26w%3D90&f=1&nofb=1&ipt=983dacc5873da7af6f622d64777556e2e0d9417da73a679d8a59ce16bb7311f7" alt="LeakCanary" width="48" height="48"/>
 </a>
 </p>
+
 <h3 align="left">DevOps:</h3>
 <p align=left>
 <a href="">
@@ -46,6 +49,7 @@
 <img src="https://skillicons.dev/icons?i=npm" alt="Npm" width="48" height="48"/>
 </a>
 </p>
+
 <h3 align="left">Tools & Experiences:</h3>
 <p align=left>
 <a href="">
@@ -62,6 +66,7 @@
 <img src="https://skillicons.dev/icons?i=powershell" alt="Powershell" width="48" height="48"/>
 </a>
 </p>
+
 <a href="">
 <img align="left" width="390" alt="metrics-general" src="https://gist.githubusercontent.com/bearbaka/0867fdf675206ca7086ec5510d76cae8/raw/metrics.general.svg">
 <img align="right" width="390" alt="metrics-wakatime" src="https://gist.githubusercontent.com/bearbaka/8e81900b613437a8d6a892a0c681e7da/raw/metrics.wakatime.svg">
