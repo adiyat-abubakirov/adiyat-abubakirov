@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Adiyat!</h1>
 <h3 align="center">A person who is obsessed with Math, Physics, CS, & Linux</h3>
 
