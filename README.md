@@ -61,7 +61,7 @@
 <img src="https://skillicons.dev/icons?i=powershell" alt="Powershell" width="48" height="48"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bearbaka&show_icons=true&locale=en&layout=donut" alt="bearbaka" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bearbaka&show_icons=true&locale=en&layout=donut&theme=gruvbox" alt="bearbaka" /></p>
 
 
 
