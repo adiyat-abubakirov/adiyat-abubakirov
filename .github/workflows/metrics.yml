@@ -9,8 +9,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
-      name: production
+    # environment: 
+    #   name: production
     permissions:
       contents: write
     steps:
@@ -21,3 +21,12 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           plugin_lines: yes
+      # - name: WakaTime
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics.plugin.wakatime.svg
+      #     token: NOT_NEEDED
+      #     base: ""
+      #     plugin_wakatime: yes
+      #     plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+      #     plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
