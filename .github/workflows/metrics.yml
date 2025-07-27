@@ -29,7 +29,7 @@ jobs:
           filename: metrics.wakatime.svg
           output_action: gist
           committer_gist: ${{ secrets.WAKATIME_GIST_ID }}
-          token: NOT_NEEDED
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
@@ -37,3 +37,17 @@ jobs:
           plugin_wakatime_days: "7"
           plugin_wakatime_limit: 0
           plugin_wakatime_repositories_visibility: "all"
+      - name: Most used (with details)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.svg
+          output_action: gist
+          committer_gist: ${{ secrets.LANGUAGES_GIST_ID }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, makefile, qmake, lex, cmake,
+            gnuplot
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 4
