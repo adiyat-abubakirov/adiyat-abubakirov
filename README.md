@@ -61,7 +61,11 @@
 <img src="https://skillicons.dev/icons?i=powershell" alt="Powershell" width="48" height="48"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bearbaka&show_icons=true&locale=en&layout=donut&theme=gruvbox" alt="bearbaka" /></p>
+<a>
+<img align="left" width="390" alt="metrics-general" src="https://gist.githubusercontent.com/bearbaka/0867fdf675206ca7086ec5510d76cae8/raw/metrics.general.svg">
+<img align="right" width="390" alt="metrics-wakatime" src="https://gist.githubusercontent.com/bearbaka/8e81900b613437a8d6a892a0c681e7da/raw/metrics.wakatime.svg">
+<img align="left" width="390" alt="metrics-languages" src="https://gist.githubusercontent.com/bearbaka/b56197f911cc1cb3a99f64980f3dc012/raw/metrics.languages.svg">
+</a>
 
 
 
@@ -74,6 +78,7 @@
 
 
 
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bearbaka&show_icons=true&locale=en&layout=donut&theme=gruvbox" alt="bearbaka" /></p> -->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
