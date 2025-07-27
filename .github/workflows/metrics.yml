@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Example
-        uses: bearbaka/metrics@latest
+        uses: bearbaka/metrics@master
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
