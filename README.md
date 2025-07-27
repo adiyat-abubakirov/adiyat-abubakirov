@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adiyat!</h1>
 <h3 align="center">A person who is obsessed with Math, Physics, CS, & Linux</h3>
 
-- 🌱 I’m currently learning **C++**
+* 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me: **abubakirovadiyat@gmail.com**
+* 📫 How to reach me: **abubakirovadiyat@gmail.com**
 
-- 📄 Know about my experiences: [https://docs.google.com/document/d/1IMeTLfq2hmD9OYae38lKuBsp12ixjEsfuJz1qiXjeDA/edit?tab=t.0#heading=h.lolf71735vah](https://docs.google.com/document/d/1IMeTLfq2hmD9OYae38lKuBsp12ixjEsfuJz1qiXjeDA/edit?tab=t.0#heading=h.lolf71735vah)
+* 📄 Know about my experiences: [https://docs.google.com/document/d/1IMeTLfq2hmD9OYae38lKuBsp12ixjEsfuJz1qiXjeDA/edit?tab=t.0#heading=h.lolf71735vah](https://docs.google.com/document/d/1IMeTLfq2hmD9OYae38lKuBsp12ixjEsfuJz1qiXjeDA/edit?tab=t.0#heading=h.lolf71735vah)
 
-- ⚡ Fun fact: **Building complex mechanisms with LEGO as a child ignited my passion for coding & bridging science with computers with the same creativity.**
+* ⚡ Fun fact: **Building complex mechanisms with LEGO as a child ignited my passion for coding & bridging science with computers.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,11 +21,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bearbaka&show_icons=true&locale=en&layout=compact" alt="bearbaka" /></p>
 
 
-<!--
-**bearbaka/bearbaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--**bearbaka/bearbaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -33,5 +30,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...-->
