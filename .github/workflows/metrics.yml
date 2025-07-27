@@ -9,14 +9,20 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    environment: 
+      name: production
     permissions:
       contents: write
     steps:
-    
-      - name: General
-        uses: bearbaka/metrics@master
-        with:
-          filename: metrics.general.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: header, repositories
-          plugin_lines: yes
+    - uses: bearbaka/metrics@master
+      with:
+        config_timezone: Europe/Paris
+
+    # 
+    #   - name: General
+    #     uses: bearbaka/metrics@master
+    #     with:
+    #       filename: metrics.general.svg
+    #       token: ${{ secrets.METRICS_TOKEN }}
+    #       base: header, repositories
+    #       plugin_lines: yes
