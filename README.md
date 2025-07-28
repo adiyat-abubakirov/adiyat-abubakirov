@@ -2,7 +2,7 @@
 <h2 align="center">Passionate about creating innovative software that makes a scientific breakthrough</h2>
 <h3 align=center>Computer Science student @ Texas State University 🎓</h3>
 
-* 🌱 I’m currently learning **C++**.
+* 🌱 I’m currently learning **C/C++**.
 
 * 📫 How to reach me: **abubakirovadiyat@gmail.com**
 
