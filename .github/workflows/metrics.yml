@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     environment: 
-      name: production
+      name: github-metrics
     permissions:
       contents: write
     steps:
@@ -51,4 +51,4 @@ jobs:
             html, css, tex, less, makefile, qmake, lex, cmake,
             gnuplot
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 4
+          plugin_languages_limit: 6
