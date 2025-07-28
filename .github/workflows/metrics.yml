@@ -14,21 +14,24 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: General
+        uses: lowlighter/metrics@latest
         with:
+          filename: metrics.general.svg
           config_timezone: America/Chicago
           output_action: gist
           token: ${{ secrets.METRICS_TOKEN }}
-      - name: General
-        with:
-          filename: metrics.general.svg
           committer_gist: ${{ secrets.GENERAL_GIST_ID }}
           config_padding: 0, +10%
           base: header, repositories
           plugin_lines: yes
       - name: WakaTime
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.wakatime.svg
+          config_timezone: America/Chicago
+          output_action: gist
+          token: ${{ secrets.METRICS_TOKEN }}
           committer_gist: ${{ secrets.WAKATIME_GIST_ID }}
           base: ""
           plugin_wakatime: yes
@@ -38,8 +41,12 @@ jobs:
           plugin_wakatime_limit: 0
           plugin_wakatime_repositories_visibility: "all"
       - name: Most used (with details)
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.languages.svg
+          config_timezone: America/Chicago
+          output_action: gist
+          token: ${{ secrets.METRICS_TOKEN }}
           committer_gist: ${{ secrets.LANGUAGES_GIST_ID }}
           base: ""
           plugin_languages: yes
