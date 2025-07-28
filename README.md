@@ -18,9 +18,9 @@
 
 <h3 align="left">Languages:</h3>
 <p align=left>
-<a href=""><img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48"/></a>
-<a href=""><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48"/></a>
-<a href=""><img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="48" height="48"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="48" height="48"/></a>
 </p>
 
 <h3 align="left">Android Development:</h3>
