@@ -16,12 +16,14 @@
 <a href="https://www.leetcode.com/bearbaka" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode-bearbaka" height="48" width="48" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages/Syntax/Scripting:</h3>
 <p align=left>
 <a href="#"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=bash" alt="Bash Shell" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="48" height="48"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" width="48" height="48"/></a>
 </p>
 
 <h3 align="left">Android Development:</h3>
@@ -36,7 +38,6 @@
 <p align=left>
 <a href="#"><img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" width="48" height="48"/></a>
 <a href="#"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.hubspot.net%2Fhubfs%2F4008838%2Flombok-java-supported.png&f=1&nofb=1&ipt=6cbda57b99e10453e7c5c1aa126afb5c53d5c4345b37238ec3e5185d4af78c36" alt="Lombok" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="48" height="48"/></a>
@@ -47,17 +48,16 @@
 
 <h3 align="left">Tools & Experiences:</h3>
 <p align=left>
-<a href="#"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/></a>
 <a href="#"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fplugins.jetbrains.com%2Ffiles%2F7115%2F94783%2Ficon%2FpluginIcon.png&f=1&nofb=1&ipt=f0423a5acd20efe8b0d39de7bd3db42d58f90ded32aac4c03c9e2f2b19511e18" alt="VisualVM" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=idea" alt="Intellij-IDEA" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" width="48" height="48"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=powershell" alt="Powershell" width="48" height="48"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/></a>
 </p>
 
 <a href="#"><img align="left" width="390" alt="metrics-general" src="https://gist.githubusercontent.com/bearbaka/0867fdf675206ca7086ec5510d76cae8/raw/metrics.general.svg"></a>
