@@ -2,13 +2,13 @@
 <h2 align="center">Passionate about creating innovative software that makes a scientific breakthrough</h2>
 <h3 align=center>Computer Science student @ Texas State University 🎓</h3>
 
-* 🌱 I’m currently learning **C/C++**.
+- 🌱 I’m currently learning **C/C++**.
 
-* 📫 How to reach me: **abubakirovadiyat@gmail.com**
+- 📫 How to reach me: **abubakirovadiyat@gmail.com**
 
-* 📄 Know about my experiences: [Resume Link](https://docs.google.com/document/d/1IMeTLfq2hmD9OYae38lKuBsp12ixjEsfuJz1qiXjeDA/edit?tab=t.0#heading=h.lolf71735vah)
+- 📄 Know about my experiences: [Resume Link](https://docs.google.com/document/d/1IMeTLfq2hmD9OYae38lKuBsp12ixjEsfuJz1qiXjeDA/edit?tab=t.0#heading=h.lolf71735vah)
 
-* ⚡ Fun fact: **Building complex mechanisms with LEGO as a child ignited my obsession for coding & bridging science with computers**.
+- ⚡ Fun fact: **Building complex mechanisms with LEGO as a child ignited my obsession for coding & bridging science with computers**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +16,9 @@
 <a href="https://www.leetcode.com/bearbaka" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode-bearbaka" height="48" width="48" /></a>
 </p>
 
-<h3 align="left">Languages/Syntax/Scripting:</h3>
+<a href="#"><img align="right" width="390" alt="metrics-wakatime" src="https://gist.githubusercontent.com/bearbaka/8e81900b613437a8d6a892a0c681e7da/raw/metrics.wakatime.svg"></a>
+
+<h3 align="left">Languages/Scripting/Markup:</h3>
 <p align=left>
 <a href="#"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48"/></a>
@@ -61,19 +63,7 @@
 </p>
 
 <a href="#"><img align="left" width="390" alt="metrics-general" src="https://gist.githubusercontent.com/bearbaka/0867fdf675206ca7086ec5510d76cae8/raw/metrics.general.svg"></a>
-<a href="#"><img align="right" width="390" alt="metrics-wakatime" src="https://gist.githubusercontent.com/bearbaka/8e81900b613437a8d6a892a0c681e7da/raw/metrics.wakatime.svg"></a>
-<a href="#"><img align="left" width="390" alt="metrics-languages" src="https://gist.githubusercontent.com/bearbaka/b56197f911cc1cb3a99f64980f3dc012/raw/metrics.languages.svg"></a>
-
-
-
-
-
-
-
-
-
-
-
+<a href="#"><img align="right" width="390" alt="metrics-languages" src="https://gist.githubusercontent.com/bearbaka/b56197f911cc1cb3a99f64980f3dc012/raw/metrics.languages.svg"></a>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bearbaka&show_icons=true&locale=en&layout=donut&theme=gruvbox" alt="bearbaka" /></p> -->
 <!--
