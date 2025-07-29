@@ -10,13 +10,13 @@
 
 - ⚡ Fun fact: **Building complex mechanisms with LEGO as a child ignited my obsession for coding & bridging science with computers**.
 
-<a href="#"><img align="right" width="390" alt="metrics-wakatime" src="https://gist.githubusercontent.com/bearbaka/8e81900b613437a8d6a892a0c681e7da/raw/metrics.wakatime.svg"></a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adiyat-abubakirov" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin-adiyat-abubakirov" height="48" width="48" /></a>
 <a href="https://www.leetcode.com/bearbaka" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode-bearbaka" height="48" width="48" /></a>
 </p>
+
+<a href="#"><img align="right" width="390" alt="metrics-wakatime" src="https://gist.githubusercontent.com/bearbaka/8e81900b613437a8d6a892a0c681e7da/raw/metrics.wakatime.svg"></a>
 
 <h3 align="left">Languages/Scripting/Markup:</h3>
 <p align=left>
