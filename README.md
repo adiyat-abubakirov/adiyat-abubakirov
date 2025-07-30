@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact: **Building complex mechanisms with LEGO as a child ignited my obsession for coding & bridging science with computers**.
 
-<a href="#"><img align="left" width="390" alt="metrics-general" src="https://gist.githubusercontent.com/bearbaka/0867fdf675206ca7086ec5510d76cae8/raw/metrics.general.svg"></a>
+<a href="#"><img align="right" width="390" alt="metrics-general" src="https://gist.githubusercontent.com/bearbaka/0867fdf675206ca7086ec5510d76cae8/raw/metrics.general.svg"></a>
 <a href="#"><img align="right" width="390" alt="metrics-wakatime" src="https://gist.githubusercontent.com/bearbaka/8e81900b613437a8d6a892a0c681e7da/raw/metrics.wakatime.svg"></a>
 
 <h3 align="left">Connect with me:</h3>
