@@ -2,7 +2,7 @@
 <h2 align="center">Passionate about creating innovative software that makes a scientific breakthrough</h2>
 <h3 align=center>Computer Science student @ Texas State University 🎓</h3>
 
-<a href="#"><img align="right" width="390" alt="metrics-languages" src="https://gist.githubusercontent.com/bearbaka/b56197f911cc1cb3a99f64980f3dc012/raw/metrics.languages.svg"></a>
+<a href="#"><img align="right" width="400" alt="metrics-languages" src="https://gist.githubusercontent.com/bearbaka/b56197f911cc1cb3a99f64980f3dc012/raw/metrics.languages.svg"></a>
 
 - 🌱 I’m currently learning **C/C++**.
 
@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact: **Building complex mechanisms with LEGO as a child ignited my obsession for coding & bridging science with computers**.
 
-<a href="#"><img align="right" width="400" alt="metrics-general" src="https://gist.githubusercontent.com/bearbaka/0867fdf675206ca7086ec5510d76cae8/raw/metrics.general.svg"></a>
+<a href="#"><img align="right" width="410" alt="metrics-general" src="https://gist.githubusercontent.com/bearbaka/0867fdf675206ca7086ec5510d76cae8/raw/metrics.general.svg"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +30,7 @@
 <a href="#"><img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" width="48" height="48"/></a>
 </p>
 
-<a href="#"><img align="right" width="400" alt="metrics-wakatime" src="https://gist.githubusercontent.com/bearbaka/8e81900b613437a8d6a892a0c681e7da/raw/metrics.wakatime.svg"></a>
+<a href="#"><img align="right" width="410" alt="metrics-wakatime" src="https://gist.githubusercontent.com/bearbaka/8e81900b613437a8d6a892a0c681e7da/raw/metrics.wakatime.svg"></a>
 
 <h3 align="left">Android Development:</h3>
 <p align=left>
