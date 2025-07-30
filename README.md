@@ -2,7 +2,7 @@
 <h2 align="center">Passionate about creating innovative software that makes a scientific breakthrough</h2>
 <h3 align=center>Computer Science student @ Texas State University 🎓</h3>
 
-<a href="#"><img align="right" width="400" alt="metrics-languages" src="https://gist.githubusercontent.com/bearbaka/b56197f911cc1cb3a99f64980f3dc012/raw/metrics.languages.svg"></a>
+<a href="#"><img align="right" width="390" alt="metrics-languages" src="https://gist.githubusercontent.com/bearbaka/b56197f911cc1cb3a99f64980f3dc012/raw/metrics.languages.svg"></a>
 
 - 🌱 I’m currently learning **C/C++**.
 

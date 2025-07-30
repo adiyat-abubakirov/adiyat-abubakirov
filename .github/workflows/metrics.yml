@@ -21,7 +21,7 @@ jobs:
           output_action: gist
           token: ${{ secrets.METRICS_TOKEN }}
           committer_gist: ${{ secrets.GENERAL_GIST_ID }}
-          config_padding: 0, +10%
+          config_padding: 0, -10%
           base: header, repositories
           plugin_lines: yes
       - name: WakaTime
