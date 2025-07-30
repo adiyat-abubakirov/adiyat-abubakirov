@@ -21,7 +21,6 @@
 </p>
 
 <h3 align="left">Languages/Scripting/Markup:</h3>
-<a href="#"><img align="right" width="390" alt="metrics-wakatime" src="https://gist.githubusercontent.com/bearbaka/8e81900b613437a8d6a892a0c681e7da/raw/metrics.wakatime.svg"></a>
 <p align=left>
 <a href="#"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48"/></a>
@@ -29,6 +28,7 @@
 <a href="#"><img src="https://skillicons.dev/icons?i=bash" alt="Bash Shell" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" width="48" height="48"/></a>
+<a href="#"><img align="right" width="390" alt="metrics-wakatime" src="https://gist.githubusercontent.com/bearbaka/8e81900b613437a8d6a892a0c681e7da/raw/metrics.wakatime.svg"></a>
 </p>
 
 <h3 align="left">Android Development:</h3>
