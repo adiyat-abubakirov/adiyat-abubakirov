@@ -44,8 +44,8 @@
 <a href="#"><img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" width="48" height="48"/></a>
-<a href="#"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.hubspot.net%2Fhubfs%2F4008838%2Flombok-java-supported.png&f=1&nofb=1&ipt=6cbda57b99e10453e7c5c1aa126afb5c53d5c4345b37238ec3e5185d4af78c36" alt="Lombok" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="48" height="48"/></a>
+<a href="#"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.hubspot.net%2Fhubfs%2F4008838%2Flombok-java-supported.png&f=1&nofb=1&ipt=6cbda57b99e10453e7c5c1aa126afb5c53d5c4345b37238ec3e5185d4af78c36" alt="Lombok" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=cmake" alt="CMake" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=npm" alt="Npm" width="48" height="48"/></a>
