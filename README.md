@@ -5,7 +5,7 @@
 
 <a href="#"><img align="right" width="410" alt="metrics-general" src="https://gist.githubusercontent.com/adiyat-abubakirov/0867fdf675206ca7086ec5510d76cae8/raw/metrics.general.svg"></a>
 
-- 🌱 I’m currently learning **C/C++**.
+- 🌱 I’m currently learning **C/C++** & **Ansible**.
 
 - 📫 How to reach me: **abubakirovadiyat@gmail.com**
 
@@ -43,6 +43,7 @@
 <p align=left>
 <a href="#"><img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="48" height="48"/></a>
 <a href="#"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.hubspot.net%2Fhubfs%2F4008838%2Flombok-java-supported.png&f=1&nofb=1&ipt=6cbda57b99e10453e7c5c1aa126afb5c53d5c4345b37238ec3e5185d4af78c36" alt="Lombok" width="48" height="48"/></a>
