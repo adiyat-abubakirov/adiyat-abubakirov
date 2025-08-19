@@ -64,6 +64,7 @@
 <a href="#"><img src="https://skillicons.dev/icons?i=powershell" alt="Powershell" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain-wordmark.svg" alt="GitHub Actions" width="48" height="48"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/firefox/firefox-original.svg" alt="Firefox" width="48" height="48"/></a>
 </p>
 
