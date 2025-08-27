@@ -39,7 +39,7 @@
 
 <a href="#"><img align="right" width="410" alt="metrics-languages" src="https://gist.githubusercontent.com/adiyat-abubakirov/b56197f911cc1cb3a99f64980f3dc012/raw/metrics.languages.svg"></a>
 
-<h3 align="left">DevOps:</h3>
+<h3 align="left">DevOps/Unix/Building/Compiling:</h3>
 <p align=left>
 <a href="#"><img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48"/></a>
@@ -52,7 +52,7 @@
 <a href="#"><img src="https://skillicons.dev/icons?i=npm" alt="Npm" width="48" height="48"/></a>
 </p>
 
-<h3 align="left">Tools & Experiences:</h3>
+<h3 align="left">Skills/Tools/Experiences:</h3>
 <p align=left>
 <a href="#"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fplugins.jetbrains.com%2Ffiles%2F7115%2F94783%2Ficon%2FpluginIcon.png&f=1&nofb=1&ipt=f0423a5acd20efe8b0d39de7bd3db42d58f90ded32aac4c03c9e2f2b19511e18" alt="VisualVM" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="48" height="48"/></a>
