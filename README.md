@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences: [Resume Link](https://docs.google.com/document/d/1IMeTLfq2hmD9OYae38lKuBsp12ixjEsfuJz1qiXjeDA/edit?tab=t.0#heading=h.lolf71735vah)
 
-<a href="#"><img align="right" width="410" alt="metrics-wakatime" src="https://gist.githubusercontent.com/adiyat-abubakirov/8e81900b613437a8d6a892a0c681e7da/raw/metrics.wakatime.svg"></a>
+<!-- <a href="#"><img align="right" width="410" alt="metrics-wakatime" src="https://gist.githubusercontent.com/adiyat-abubakirov/8e81900b613437a8d6a892a0c681e7da/raw/metrics.wakatime.svg"></a> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
