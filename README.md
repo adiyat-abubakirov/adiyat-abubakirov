@@ -5,6 +5,8 @@
 
 <a href="#"><img align="right" width="410" alt="metrics-general" src="https://gist.githubusercontent.com/adiyat-abubakirov/0867fdf675206ca7086ec5510d76cae8/raw/metrics.general.svg"></a>
 
+<a href="#"><img align="right" width="410" alt="metrics-languages" src="https://gist.githubusercontent.com/adiyat-abubakirov/b56197f911cc1cb3a99f64980f3dc012/raw/metrics.languages.svg"></a>
+
 - 🌱 I’m currently learning **Python, NumPy, Pandas, & Ansible**.
     - @ Texas State University, I’m currently learning **C/C++ & Discrete Math**.
 
@@ -13,8 +15,6 @@
 - 📄 Know about my experiences: [Resume Link](https://docs.google.com/document/d/1IMeTLfq2hmD9OYae38lKuBsp12ixjEsfuJz1qiXjeDA/edit?tab=t.0#heading=h.lolf71735vah)
 
 <!-- <a href="#"><img align="right" width="410" alt="metrics-wakatime" src="https://gist.githubusercontent.com/adiyat-abubakirov/8e81900b613437a8d6a892a0c681e7da/raw/metrics.wakatime.svg"></a> -->
-
-<a href="#"><img align="right" width="410" alt="metrics-languages" src="https://gist.githubusercontent.com/adiyat-abubakirov/b56197f911cc1cb3a99f64980f3dc012/raw/metrics.languages.svg"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
