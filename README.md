@@ -14,6 +14,8 @@
 
 <!-- <a href="#"><img align="right" width="410" alt="metrics-wakatime" src="https://gist.githubusercontent.com/adiyat-abubakirov/8e81900b613437a8d6a892a0c681e7da/raw/metrics.wakatime.svg"></a> -->
 
+<a href="#"><img align="right" width="410" alt="metrics-languages" src="https://gist.githubusercontent.com/adiyat-abubakirov/b56197f911cc1cb3a99f64980f3dc012/raw/metrics.languages.svg"></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adiyat-abubakirov" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin/adiyat-abubakirov" height="48" width="48" /></a>
@@ -38,8 +40,6 @@
 <a href="#"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdashboard.snapcraft.io%2Fsite_media%2Fappmedia%2F2018%2F03%2Ftiled-logo-256.png&f=1&nofb=1&ipt=f417d506e87c3a635932c6bc4d0cc7a202dda96aa9ba47caa48dcb90c87ec2f7" alt="Tiled" width="48" height="48"/></a>
 <a href="#"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fa.fsdn.com%2Fallura%2Fmirror%2Fleakcanary%2Ficon%3F1719033012%3F%26w%3D90&f=1&nofb=1&ipt=983dacc5873da7af6f622d64777556e2e0d9417da73a679d8a59ce16bb7311f7" alt="LeakCanary" width="48" height="48"/></a>
 </p>
-
-<a href="#"><img align="right" width="410" alt="metrics-languages" src="https://gist.githubusercontent.com/adiyat-abubakirov/b56197f911cc1cb3a99f64980f3dc012/raw/metrics.languages.svg"></a>
 
 <h3 align="left">DevOps/Unix/Building/Compiling:</h3>
 <p align=left>
