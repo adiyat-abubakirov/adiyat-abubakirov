@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adiyat!</h1>
 <h2 align="center">Passionate about creating innovative software that makes a scientific breakthrough</h2>
 <h2 align=center>⚡ Fun fact:<br>Building complex mechanisms with LEGO as a child ignited my obsession for coding & bridging science with computers</h2>
-<h3 align=center>Sophomore B.S. Computer Science student @ Texas State University 🎓</h3>
+<h3 align=center>Freshman B.S. Computer Science student @ Texas State University 🎓</h3>
 
 <a href="#"><img align="right" width="410" alt="metrics-general" src="https://gist.githubusercontent.com/adiyat-abubakirov/0867fdf675206ca7086ec5510d76cae8/raw/metrics.general.svg"></a>
 
