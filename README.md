@@ -29,6 +29,7 @@
 <a href="#"><img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=bash" alt="Bash Shell" width="48" height="48"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=csharp" alt="C#" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="48" height="48"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" width="48" height="48"/></a>
 </p>
