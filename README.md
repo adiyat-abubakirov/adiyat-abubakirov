@@ -11,7 +11,7 @@
 - 📫 How to reach me: **abubakirovadiyat@gmail.com**
 
 - 📄 Know about my experiences: [Resume Link](https://docs.google.com/document/d/1IMeTLfq2hmD9OYae38lKuBsp12ixjEsfuJz1qiXjeDA/edit?tab=t.0#heading=h.lolf71735vah)
-- 💻 PC: Lenovo Legion Slim 5 14" & Macbook Air M1
+- 💻 PC: Lenovo Legion Slim 5 14" (Debian) & Macbook Air M1 (macOS & Nix Flake)
 
 - 🎹 Split keyboard: Piantor Pro
 
