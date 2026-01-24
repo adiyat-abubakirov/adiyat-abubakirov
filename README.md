@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adiyat!</h1>
-<h2 align="center">Passionate about creating innovative software that makes a scientific breakthrough</h2>
+<h2 align="center">Passionate about creating innovative software that makes a scientific breakthrough. BTW, I use split keyboard & Linux as daily drivers</h2>
 <h2 align=center>⚡ Fun fact:<br>Building complex mechanisms with LEGO as a child ignited my obsession for coding & bridging science with computers</h2>
 <h3 align=center>Freshman B.S. Computer Science student @ Texas State University 🎓</h3>
 
@@ -11,6 +11,9 @@
 - 📫 How to reach me: **abubakirovadiyat@gmail.com**
 
 - 📄 Know about my experiences: [Resume Link](https://docs.google.com/document/d/1IMeTLfq2hmD9OYae38lKuBsp12ixjEsfuJz1qiXjeDA/edit?tab=t.0#heading=h.lolf71735vah)
+- 💻 PC: Lenovo Legion Slim 5 14" & Macbook Air M1
+
+- 🎹 Split keyboard: Piantor Pro
 
 <!-- <a href="#"><img align="right" width="410" alt="metrics-wakatime" src="https://gist.githubusercontent.com/adiyat-abubakirov/8e81900b613437a8d6a892a0c681e7da/raw/metrics.wakatime.svg"></a> -->
 
