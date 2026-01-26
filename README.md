@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adiyat!</h1>
-<h2 align="center">Passionate about creating innovative software that makes a scientific breakthrough. BTW, I use split keyboard & Linux as daily drivers</h2>
+<h1 align="center">Passionate about creating innovative software that makes a scientific breakthrough. BTW, I use split keyboard & Linux as daily drivers</h2>
 <h2 align=center>⚡ Fun fact:<br>Building complex mechanisms with LEGO as a child ignited my obsession for coding & bridging science with computers</h2>
 <h3 align=center>Freshman B.S. Computer Science student @ Texas State University 🎓</h3>
 
